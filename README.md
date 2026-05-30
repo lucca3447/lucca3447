@@ -3,7 +3,8 @@
 **Full Stack Developer | Software Engineering Student**
 
 I'm a Software Engineering student at Centro Universitário Nobre (UNIFAN), expected to graduate in 2028. I have hands-on experience in RESTful API development and currently work with Python, FastAPI, and relational databases. On the frontend, I build modern web applications using React and Vite. My experience includes relational database modeling, layered architecture, and the application of software engineering best practices to build scalable, maintainable, and efficient systems.
-## Projecs
+
+## Projects
 
 ### [Cafeteria Management API](https://github.com/lucca3447/cafeteria-management-api) / [FastCafé](https://github.com/lucca3447/cafeteria-frontend)
 
