@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Software Engineering Student**
 
-I'm a Software Engineering student at Centro Universitário Nobre (UNIFAN), expected to graduate in 2028. I have hands-on experience in RESTful API development and currently work with Python, FastAPI, and relational databases. On the frontend, I build modern web applications using React and Vite. My experience includes relational database modeling, layered architecture, and the application of software engineering best practices to build scalable, maintainable, and efficient systems.
+I'm a Software Engineering student at Centro Universitário Nobre (UNIFAN), expected to graduate in 2028. I have hands-on experience in RESTful API development and currently work with Python, FastAPI, and relational databases. On the frontend, I build modern web applications using React and Vite. My experience includes relational database modeling, layered architecture, and the application of software engineering best practices to build scalable, maintainable and efficient systems.
 
 ## Projects
 
@@ -29,9 +29,10 @@ I'm a Software Engineering student at Centro Universitário Nobre (UNIFAN), expe
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-336699?style=flat-square&logo=htmx&logoColor=white)
 
