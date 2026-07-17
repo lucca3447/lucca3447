@@ -6,7 +6,7 @@ I'm a Software Engineering student at Centro Universitário Nobre (UNIFAN), expe
 
 ## Projects
 
-### [Cafeteria Management API](https://github.com/lucca3447/cafeteria-management-api) / [FastCantina](https://github.com/lucca3447/cafeteria-frontend)
+### [FastCantina](https://github.com/lucca3447/Fast-Cantina)
 
 > A web application for cafeteria management, responsible for handling products, inventory, orders, suppliers, and users, with a focus on organization, security, and scalability.
 
