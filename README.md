@@ -41,6 +41,7 @@ I'm a Software Engineering student at Centro Universitário Nobre (UNIFAN), expe
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Tools**
 
@@ -60,4 +61,4 @@ I'm a Software Engineering student at Centro Universitário Nobre (UNIFAN), expe
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-lucca-sotero-b899a5369/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luccatrabalho11@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jlucca.sotero@gmail.com)
