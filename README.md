@@ -4,17 +4,7 @@
 
 I'm a Software Engineering student at Centro Universitário Nobre (UNIFAN), expected to graduate in 2028. I have hands-on experience in RESTful API development and currently work with Python, FastAPI, and relational databases. On the frontend, I build modern web applications using React and Vite. My experience includes relational database modeling, layered architecture, and the application of software engineering best practices to build scalable, maintainable and efficient systems.
 
-## Projects
 
-### [FastCantina](https://github.com/lucca3447/Fast-Cantina)
-
-> A web application for cafeteria management, responsible for handling products, inventory, orders, suppliers, and users, with a focus on organization, security, and scalability.
-
-### [ERP Escolar](https://github.com/KauanBrandao/erp-escolar)
-
-> A school management API developed collaboratively to centralize the administration of students, teachers, classes, subjects, and academic processes.
-
----
 
 **Backend**
 
