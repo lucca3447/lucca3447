@@ -23,8 +23,8 @@ I'm a Software Engineering student at Centro Universitário Nobre (UNIFAN), expe
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-336699?style=flat-square&logo=htmx&logoColor=white)
+
+
 
 **Databases**
 
