@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Software Engineering Student**
 
-I'm a Software Engineering student at Centro Universitário Nobre (UNIFAN), expected to graduate in 2028. I have hands-on experience in RESTful API development and currently work with Python, FastAPI, and relational databases. On the frontend, I build modern web applications using React and Vite. My experience includes relational database modeling, layered architecture, and the application of software engineering best practices to build scalable, maintainable and efficient systems.
+I'm João Lucca, a Full Stack Developer and Software Engineering student at Centro Universitário Nobre (UNIFAN), expected to graduate in 2028. I build scalable RESTful APIs and modern web applications, with practical experience in Python, FastAPI, Flask, PHP, Laravel, and Vue.js. I'm passionate about clean architecture, continuous learning, and solving real-world problems with technology.
 
 
 
@@ -11,6 +11,8 @@ I'm a Software Engineering student at Centro Universitário Nobre (UNIFAN), expe
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 
@@ -18,6 +20,7 @@ I'm a Software Engineering student at Centro Universitário Nobre (UNIFAN), expe
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
