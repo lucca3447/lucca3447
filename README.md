@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Software Engineering Student**
 
-I'm João Lucca, a Full Stack Developer and Software Engineering student at Centro Universitário Nobre (UNIFAN), expected to graduate in 2028. I build scalable RESTful APIs and modern web applications, with practical experience in Python, FastAPI, Flask, PHP, Laravel, and Vue.js. I'm passionate about clean architecture, continuous learning, and solving real-world problems with technology.
+I'm João Lucca, a Full Stack Developer and Software Engineering student at Centro Universitário Nobre (UNIFAN), expected to graduate in 2028. I build scalable RESTful APIs and modern web applications, with practical experience in Python, FastAPI, PHP, Laravel, React.js and Vue.js. I'm passionate about clean architecture, continuous learning, and solving real-world problems with technology.
 
 
 
