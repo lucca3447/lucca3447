@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Software Engineering Student**
 
-I'm João Lucca, a Full Stack Developer and Software Engineering student at UNIFAN (2028). I develop scalable APIs, modern web apps, and creative AI systems like kurisynth (a multimodal conversational agent with local RAG and LLM orchestration). Experienced with Python (FastAPI), PHP (Laravel), React, and Vue.js, I'm passionate about code, creative  projects, and solving real-world challenges through technology.
+I'm João Lucca, a Full Stack Developer and Software Engineering student at UNIFAN (2028). I develop scalable APIs, modern web apps, and creative AI systems like OpenAmadeus (a multimodal conversational agent with local RAG and LLM orchestration). Experienced with Python (FastAPI), PHP (Laravel), React, and Vue.js, I'm passionate about code, creative  projects, and solving real-world challenges through technology.
 
 
 **Backend**
