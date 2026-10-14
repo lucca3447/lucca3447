@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Software Engineering Student**
 
-I'm João Lucca, a Full Stack Developer and Software Engineering student. My current focus is building full-stack systems and REST APIs for business management and multimodal conversational AI runtimes with robust orchestration and data layers.
+I'm  a Full Stack Developer and Software Engineering student. My current focus is building AI runtimes with robust orchestration and data layers, full-stack systems and REST APIs for business management.
 
 
 **Backend / API**
